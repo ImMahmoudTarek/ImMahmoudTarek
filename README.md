@@ -1,54 +1,109 @@
-## Hey 👋, I'm Mahmoud Tarek!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Mahmoud+Tarek+%F0%9F%91%8B;Passionate+Web+Developer+%F0%9F%9A%80;HTML+%26+CSS+Specialist+%F0%9F%8E%A8;Building+Beautiful+Web+Experiences+%F0%9F%8C%90" alt="Typing SVG" />
+</div>
 
-<a href='https://www.linkedin.com/in/mahmoud-tarek/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/mahmoud_tarek/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://github.com/mahmoud-tarek/'><img alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/github.svg" height='18px'/></a>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953c4.gif" width="900">
+</div>
 
-I am a passionate web developer with a focus on **HTML** and **CSS** for building responsive, user-friendly websites. I love crafting clean and efficient code to deliver high-quality web experiences 🌐. I'm always learning and evolving, and I enjoy exploring new web technologies and frameworks.  
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-tarek/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mahmoud_tarek/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahmoud-tarek/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahmoud-tarek&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-tarek" />
+</div>
+
+---
+
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"/>
+
+I'm a **passionate web and mobile developer**, specializing in building responsive, user-friendly websites using **HTML**, **CSS**, and **Vue.js**, as well as crafting high-performance Android apps with **Flutter** 📱🌐.
+
+I take pride in writing clean, maintainable code and delivering high-quality digital experiences. Constant learning and exploring new technologies is at the core of my journey—I love staying up-to-date with the latest trends in web and mobile development to keep pushing my skills forward.
+
+```javascript
+const mahmoud = {
+  pronouns: "He/Him",
+  code: ["HTML", "CSS", "JavaScript", "Vue.js", "Flutter"],
+  askMeAbout: ["Web Development", "Mobile Apps", "UI/UX Design", "Tech in general"],
+  technologies: {
+    frontEnd: {
+      javascript: ["Vanilla JS", "Vue.js"],
+      css: ["CSS3", "Flexbox", "Grid", "Responsive Design"]
+    },
+    mobile: ["Flutter"],
+    databases: ["MySQL", "SQLite"],
+    tools: ["Git", "GitHub", "VS Code"]
+  },
+  currentFocus: "Building responsive, modern web applications with clean UI and smooth UX",
+  funFact: "I debug using console.log() — it's my best friend in tough times 😄"
+};
+```
+
 <br/>
-<br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  
-### 🧐 More About Me:
+### 🧐 A Little More About Me
 
-- 🔭 &nbsp; I’m currently working on **a personal portfolio website** using pure **HTML** and **CSS**
-- 🤝 &nbsp; I’m looking to collaborate on web design projects
-- 🌱 &nbsp; I’m currently learning more about **responsive web design** and **CSS Grid**
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mahmoud-tarek?tab=repositories)
-- 💬 &nbsp; Ask me about anything web development-related, I’m happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mahmoud-tarek/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I love reading web development articles and exploring new design trends.
+- � &nbsp; Working on a **personal portfolio** with pure **HTML & CSS**
+- 🤝 &nbsp; Love collaborating on **creative web design** and **open-source projects**
+- 📱 &nbsp; Deepening my skills in **responsive design**, **CSS Grid** & **modern layouts**
+- 💬 &nbsp; Happy to chat about anything **frontend-related**
+- 📖 &nbsp; Big fan of reading **dev blogs** & keeping up with **design trends**
 
 <br>
 
 ### 🔨 Languages and Tools:
-<a href="https://vuejs.org" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" height="42px"/>
-</a>
-<a href="https://flutter.dev" target="_blank">
-  <img align="left" alt="Flutter" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-</a>
+
+<div align="center">
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg" alt="HTML" height="42px"/>
+  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg" alt="HTML" height="50px"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img align="left" alt="CSS" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg">
+  <img alt="CSS" height="50px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg">
 </a>
+&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img align="left" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg">
+  <img alt="JavaScript" height="50px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg">
 </a>
+&nbsp;&nbsp;
+<a href="https://vuejs.org" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" height="50px"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://flutter.dev" target="_blank">
+  <img alt="Flutter" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+</a>
+
+</div>
 
 <br>
 
 ### 🛠️ My Projects
-<a href="https://github.com/mahmoud-tarek/my-portfolio" target="_blank">
-  <img alt="portfolio" src="./projects/portfolio.svg" height="68" align="left">
-</a>
-<a href="https://github.com/mahmoud-tarek/simple-html-css-projects" target="_blank">
-  <img alt="html-css-projects" src="./projects/html-css-projects.svg" height="68" align="left">
-</a>
-<a href="https://github.com/mahmoud-tarek/responsive-web-design" target="_blank">
-  <img alt="responsive-web-design" src="./projects/responsive-web-design.svg" height="68" align="left">
-</a>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahmoud-tarek/my-portfolio)
+[![HTML CSS Projects](https://img.shields.io/badge/HTML%20CSS%20Projects-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahmoud-tarek/simple-html-css-projects)
+[![Responsive Design](https://img.shields.io/badge/Responsive%20Design-45B7D1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahmoud-tarek/responsive-web-design)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+  ### Thanks for visiting! 😊
+
+  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+</div>
