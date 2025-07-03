@@ -8,15 +8,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-tarek/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mahmoud_tarek/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahmoud-tarek/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mahmoud.tarek/)
 
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahmoud-tarek&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-tarek" />
 </div>
 
 ---
@@ -28,6 +21,10 @@
 I'm a **passionate web and mobile developer**, specializing in building responsive, user-friendly websites using **HTML**, **CSS**, and **Vue.js**, as well as crafting high-performance Android apps with **Flutter** 📱🌐.
 
 I take pride in writing clean, maintainable code and delivering high-quality digital experiences. Constant learning and exploring new technologies is at the core of my journey—I love staying up-to-date with the latest trends in web and mobile development to keep pushing my skills forward.
+
+<br clear="both"/>
+
+<br/>
 
 ```javascript
 const mahmoud = {
