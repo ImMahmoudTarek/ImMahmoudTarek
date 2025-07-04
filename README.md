@@ -49,7 +49,6 @@ const mahmoud = {
 
 ### 🧐 A Little More About Me
 
-- � &nbsp; Working on a **personal portfolio** with pure **HTML & CSS**
 - 🤝 &nbsp; Love collaborating on **creative web design** and **open-source projects**
 - 📱 &nbsp; Deepening my skills in **responsive design**, **CSS Grid** & **modern layouts**
 - 💬 &nbsp; Happy to chat about anything **frontend-related**
